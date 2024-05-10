@@ -1,0 +1,14 @@
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.AssemblyInfoInputs.cache
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.AssemblyInfo.cs
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.csproj.CoreCompileInputs.cache
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\bin\Debug\net8.0\Exam-Problem2.exe
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\bin\Debug\net8.0\Exam-Problem2.deps.json
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\bin\Debug\net8.0\Exam-Problem2.runtimeconfig.json
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\bin\Debug\net8.0\Exam-Problem2.dll
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\bin\Debug\net8.0\Exam-Problem2.pdb
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.dll
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\refint\Exam-Problem2.dll
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.pdb
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\Exam-Problem2.genruntimeconfig.cache
+C:\Users\eddie\source\repos\Exam-Problem2\Exam-Problem2\obj\Debug\net8.0\ref\Exam-Problem2.dll
